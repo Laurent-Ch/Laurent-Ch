@@ -2,7 +2,7 @@
 
 <div>I'm Laurent, a French web developer currently living in Paris and honing my skills at <a href='https://www.thehackingproject.org/' style='text-decoration:none' target='_blank'>The Hacking Project</a>. Out of curiosity, I initially discovered programming as a self-taught learner a couple of years ago and instantly realised how much I loved it. I still have a lot to learn, which is great, as the feeling I get from improving my craft day by day is well worth it. </div>
 
--
+---
 ### 💻 Toolbox
 
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
@@ -15,7 +15,7 @@
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
--
+---
 ### 📖 Languages, Frameworks and Libraries
 
 ![HTLM5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -33,7 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
--
+---
 ### 👨‍💻 My first full-scale project: <strong><a href='https://syndicatdelutteantifranglais.club/' style='text-decoration:none' target='_blank'>SLAF!</a></strong> – source code <a href='https://github.com/SLAF-Project/SLAF_Project' style='text-decoration:none' target='_blank'>here</a>.
 
 Made with <strong><em>
@@ -43,7 +43,7 @@ Made with <strong><em>
 	<a href='https://github.com/superOrteg' style="text-decoration:none; color:green" target='_blank'>R</a>
 </strong></em> mates in a fortnight at the end of our first three months of formation.
 
--
+---
 ### 👇 More info here
 
 <a href="https://fr.linkedin.com/in/laurent-chamouleau-b87303223/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
