@@ -37,10 +37,10 @@
 ### 👨‍💻 My first full-scale project: <strong><a href='https://syndicatdelutteantifranglais.club/' style='text-decoration:none' target='_blank'>SLAF!</a></strong> – source code <a href='https://github.com/SLAF-Project/SLAF_Project' style='text-decoration:none' target='_blank'>here</a>.
 
 Made with <strong><em>
-	<a href='https://github.com/VioMrqs/' style="text-decoration:none; color:red" target='_blank'>F</a>
-	<a href='https://github.com/mrprst/' style='text-decoration:none; color:lightblue" target='_blank'>O</a>
-	<a href='https://github.com/Luucas51/Luucas51' style="text-decoration:none; color: orange" target='_blank'>U</a>
-	<a href='https://github.com/superOrteg' style="text-decoration:none; color:green" target='_blank'>R</a>
+	<a href='https://github.com/VioMrqs/' style='text-decoration:none' target='_blank'>F</a>
+	<a href='https://github.com/mrprst/' style='text-decoration:none' target='_blank'>O</a>
+	<a href='https://github.com/Luucas51/Luucas51' style='text-decoration:none' target='_blank'>U</a>
+	<a href='https://github.com/superOrteg' style='text-decoration:none;' target='_blank'>R</a>
 </strong></em> mates in a fortnight at the end of our first three months of formation.
 
 ---
